@@ -7,7 +7,7 @@
   <a href="https://instagram.com/hs.engsido">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://threads.net/@hsengsido">
+  <a href="https://threads.net/@hs.engsido">
     <img src="https://img.shields.io/badge/Threads-EEEE?style=flat&logo=threads&logoColor=white"/>
   </a>
 </p>
