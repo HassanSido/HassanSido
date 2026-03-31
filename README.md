@@ -1,18 +1,55 @@
 <h1 align="center">Hi, I'm Hassan Sido 👋</h1>
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/hassansido"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  </p>
-- Software Engineer 👨‍💻
-- Interested in Birk ey? Well this is the place to be then.💻
-Birk is a 24 year old Senior Software Engineer based in Oslo, live in Cairo 🇪🇬 This blog is where he writes about everything that interests him! His content is mostly geared towards beginner-intermediate level frontend programmers that are interested in web and mobile development. But that might change, who knows?
+  <a href="https://www.linkedin.com/in/hassansido">
+    <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://threads.net/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white"/>
+  </a>
+</p>
 
-Besides tech, Formula 1, mechanical keyboards and travelling hold special places in his heart 🏎️
-- 👀 I’m interested in Learning new concepts
-- 🌱 I’m currently learning Fultter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hassan@engsdio.com
+---
 
-<!---
-HassanSido/HassanSido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+- Senior Software Engineer with 7+ years of experience  
+- Specialized in **QuickBooks integrations, ERP systems, and FinTech / RegTech solutions**  
+- Strong in **Laravel, backend architecture, and cloud systems (AWS, Docker)**  
+- I turn complex business requirements into scalable, production-ready systems  
+
+---
+
+## 🧠 What I Do
+
+- 🔗 Build integrations (QuickBooks Desktop & Online, APIs, ERP systems)  
+- ⚙️ Design scalable backend architectures  
+- ☁️ Deploy and optimize cloud infrastructure  
+- 📊 Develop real-time and high-performance systems  
+
+---
+
+## 💼 Current Focus
+
+- FinTech & ERP platforms  
+- SaaS architecture & system scalability  
+- Automation & intelligent business workflows  
+
+---
+
+## 🤝 Open To
+
+- Collaboration on high-impact systems  
+- Freelance / consulting opportunities  
+- Building scalable SaaS products  
+
+---
+
+## 📫 Contact
+
+📧 hassan@engsido.com  
+
+---
