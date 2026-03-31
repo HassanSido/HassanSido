@@ -4,11 +4,11 @@
   <a href="https://www.linkedin.com/in/hassansido">
     <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/hs.engsido">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://threads.net/@YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white"/>
+  <a href="https://threads.net/@hsengsido">
+    <img src="https://img.shields.io/badge/Threads-EEEE?style=flat&logo=threads&logoColor=white"/>
   </a>
 </p>
 
